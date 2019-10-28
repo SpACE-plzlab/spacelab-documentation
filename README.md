@@ -1,6 +1,14 @@
 # LabDocs
 
-This repository is meant to be a central documentation repository for the members of the Spatial and Community Ecology lab, Dr. Phoebe Zarnetsky, Integrative Biology, Michigan State University  http://communityecologylab.com
+## Spatial and Community Ecology lab
+
+**Dr. Phoebe Zarnetsky**\
+Integrative Biology, Michigan State University  \
+http://communityecologylab.com
+
+---
+
+This repository is meant to be a central documentation repository for all lab members and some collaborators.   
 
 Any information that is relevant across all projects, or for simply doing Spatial Ecology at scale on your computer, the [MSU High Performance Computing Center](http://wiki.hpcc.msu.edu) or in the 'cloud' should go here.   
 
