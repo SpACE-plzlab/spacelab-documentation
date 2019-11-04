@@ -4,7 +4,7 @@
 
 ## Spatial and Community Ecology lab
 
-**Dr. Phoebe Zarnetsky**\
+**Dr. Phoebe Zarnetske**\
 Integrative Biology, Michigan State University  \
 http://communityecologylab.com
 
